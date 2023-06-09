@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "318127733585",
+    "project_id": "universoneuro-f368b",
+    "storage_bucket": "universoneuro-f368b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318127733585:android:10c5c66f9a4d81263cb170",
+        "android_client_info": {
+          "package_name": "com.censupeg.moczak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318127733585-7jpctahepkf4fu1spjo5vpm9neikgi7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.censupeg.moczak",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "318127733585-besnt5s4rp6akcqr5dquv29aotu57d1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTD_zY18o90NZgxQuLD06l3tmjmIho6U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318127733585-besnt5s4rp6akcqr5dquv29aotu57d1g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318127733585-2v3pslhpdmtajdcj86en1839j7jcrdbv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.censupeg.moczak"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
