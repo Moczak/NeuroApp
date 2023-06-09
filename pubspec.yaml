@@ -123,7 +123,7 @@ dependencies:
   supabase: ^1.0.0-nullsafety.0
   supabase_flutter: 1.7.0
   syncfusion_flutter_gauges: ^20.4.53
-  table_calendar: 3.0.6
+  table_calendar: 3.0.9
   timeago: 3.2.2
   url_launcher: 6.1.10
   url_launcher_android: 6.0.27
